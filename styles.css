@@ -1,0 +1,59 @@
+body{
+    font-family: 'Roboto Condensed', sans-serif;
+    background-color:  #dce6f1;
+}
+
+.btn:link, .btn:visited{
+    color: #ED462F;
+    text-decoration: none;
+    display: inline-block;
+}
+
+.btn:hover, .btn:active{
+    color: white;
+    background-color: #ED462F;
+    padding: 24px;
+}
+.header{
+    text-align: center;
+    color: white;
+    background-color: #5680f3;
+    margin: 0;
+    padding: 50px;
+}
+
+
+#connectionForm{
+    display: flex;
+    flex-wrap: nowrap;
+    align-items: flex-end;
+}
+
+.btn{
+    background-color: #ED462F;
+    border: none;
+    margin-left: 500px;
+    width: 140px;
+    padding: 24px;
+    font-size: 15px;
+}
+
+.form-group{
+    margin-left: 220px;
+    border-radius: 0;
+}
+
+#text{
+    margin-left: 220px;
+}
+
+hr{
+    margin: 0px 200px 0px 200px ;
+}
+
+.form-control{
+    padding: 18px;
+    width: 255%;
+    font-size: 18px;
+}
+
